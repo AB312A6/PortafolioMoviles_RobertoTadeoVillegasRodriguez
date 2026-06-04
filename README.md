@@ -9,8 +9,8 @@
     <td>
       <h3>Información del Alumno</h3>
       <ul>
-        <li><b>Nombre Completo:</b> Ibarra Zuñiga Antonio Obed</li>
-        <li><b>Número de Control:</b> 222310491</li>
+        <li><b>Nombre Completo:</b> Villegas Rodriguez Roberto Tadeo</li>
+        <li><b>Número de Control:</b> 222310459</li>
         <li><b>Materia:</b> Desarrollo de Aplicaciones para Dispositivos Móviles</li>
         <li><b>Institución:</b> Instituto Tecnológico Superior de Lerdo</li>
         <li><b>Docente:</b> Jesús Salas Marín</li>
