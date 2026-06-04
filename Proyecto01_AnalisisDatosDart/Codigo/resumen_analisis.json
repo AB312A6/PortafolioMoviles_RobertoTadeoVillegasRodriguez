@@ -1,0 +1,86 @@
+{
+  "fecha_generacion": "2026-06-02T17:26:05.477099",
+  "estadisticas_generales": {
+    "total_registros": 15,
+    "salario_promedio": 15426.89,
+    "edad_minima": 21,
+    "edad_maxima": 45
+  },
+  "datos_detallados": [
+    {
+      "nombre": "Ana García",
+      "edad": 25,
+      "salario": 12500.5
+    },
+    {
+      "nombre": "Luis Pérez",
+      "edad": 30,
+      "salario": 15000.0
+    },
+    {
+      "nombre": "Marta Sol",
+      "edad": 22,
+      "salario": 11800.0
+    },
+    {
+      "nombre": "Carlos Mendoza",
+      "edad": 28,
+      "salario": 14200.75
+    },
+    {
+      "nombre": "Sofía Ramos",
+      "edad": 35,
+      "salario": 18500.0
+    },
+    {
+      "nombre": "Juan Delgado",
+      "edad": 40,
+      "salario": 22000.5
+    },
+    {
+      "nombre": "Elena Torres",
+      "edad": 24,
+      "salario": 10500.0
+    },
+    {
+      "nombre": "Ricardo Luna",
+      "edad": 33,
+      "salario": 16700.25
+    },
+    {
+      "nombre": "Lucía Méndez",
+      "edad": 27,
+      "salario": 13900.0
+    },
+    {
+      "nombre": "Roberto Sanz",
+      "edad": 45,
+      "salario": 25000.0
+    },
+    {
+      "nombre": "Gabriela Ríos",
+      "edad": 21,
+      "salario": 9800.0
+    },
+    {
+      "nombre": "Fernando Ruiz",
+      "edad": 38,
+      "salario": 19200.8
+    },
+    {
+      "nombre": "Valeria Castro",
+      "edad": 29,
+      "salario": 15400.0
+    },
+    {
+      "nombre": "Hugo Ortiz",
+      "edad": 31,
+      "salario": 14800.6
+    },
+    {
+      "nombre": "Beatriz Peña",
+      "edad": 26,
+      "salario": 12100.0
+    }
+  ]
+}
