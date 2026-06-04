@@ -43,7 +43,7 @@ A continuación, se presenta la secuencia operativa de la aplicación móvil des
 4. **Registro de Favoritos:** Actualización reactiva de los elementos gráficos al pulsar la opción de "Like", sincronizando el icono de corazón con el estado global de datos.
 5. **Panel de Favoritos:** Despliegue de la sección independiente (`FavoritesPage`), encargada de listar de manera limpia las opciones seleccionadas junto con un recuento total dinámico.
 
-> 💡 *Nota: Puedes enlazar las capturas multimedia correspondientes a cada punto utilizando la sintaxis de Markdown estándar: `![Descripción de la imagen](Ruta_De_La_Imagen.png)`.*
+
 
 ---
 ---
