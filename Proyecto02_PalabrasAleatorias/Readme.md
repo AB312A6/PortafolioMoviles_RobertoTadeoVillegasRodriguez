@@ -46,7 +46,15 @@ A continuación, se presenta la secuencia operativa de la aplicación móvil des
 > 💡 *Nota: Puedes enlazar las capturas multimedia correspondientes a cada punto utilizando la sintaxis de Markdown estándar: `![Descripción de la imagen](Ruta_De_La_Imagen.png)`.*
 
 ---
+---
 
+## 💭 7. Reflexión Personal
+
+* **¿Qué aprendí? (Perspectiva Técnica):** Este proyecto constituyó mi primera inmersión formal dentro del ecosistema de Flutter. Logré asimilar de manera pragmática la filosofía de arquitectura móvil fundamentada en el principio de que *"todo es un widget"*. Asimismo, internalicé las ventajas del paradigma declarativo, comprendiendo cómo desacoplar estrictamente la capa lógica de negocio de la interfaz visual orientada al usuario para estructurar flujos de desarrollo óptimos, legibles y mantenibles.
+* **¿Qué fue difícil? (Desafíos Encontrados):** El principal obstáculo técnico radicó en dominar el comportamiento adaptativo de la barra de navegación lateral (`NavigationRail`), coordinando su despliegue en combinación con la renderización condicional de vistas según las dimensiones de la pantalla. De igual forma, demandó especial rigurosidad la sincronización del gestor de estados para garantizar que la pantalla de favoritos (`FavoritesPage`) actualizara, añadiera o eliminara elementos en tiempo real y de forma síncrona, sin comprometer el rendimiento ni quebrar la experiencia de navegación.
+* **¿Qué mejoraría? (Visión de Futuro):** Para iteraciones posteriores de la solución, proyectaría la implementación de un sistema de persistencia de datos persistente sobre el almacenamiento físico del dispositivo móvil (mediante utilidades como `shared_preferences` o motores de bases de datos embebidas tipo NoSQL como `Hive`). Con este módulo de persistencia local, la colección de conceptos marcados como favoritos por el usuario se mantendría íntegra, evitando la pérdida de información al finalizar o destruir el ciclo de vida del proceso de la aplicación.*
+
+   
 ## 🚀 6. Instrucciones de Ejecución y Despliegue
 
 Sigue esta guía detallada para clonar de forma local el repositorio, preparar las dependencias de software y ejecutar el aplicativo en navegadores web o entornos de escritorio compatibles.
@@ -61,10 +69,4 @@ Abre tu consola de comandos local e importa el código fuente completo del porta
 ```bash
 git clone [https://github.com/AB312A6/PortafolioMoviles_RobertoTadeoVillegasRodriguez.git](https://github.com/AB312A6/PortafolioMoviles_RobertoTadeoVillegasRodriguez.git)
 
----
 
-## 💭 7. Reflexión Personal
-
-* **¿Qué aprendí? (Perspectiva Técnica):** Este proyecto constituyó mi primera inmersión formal dentro del ecosistema de Flutter. Logré asimilar de manera pragmática la filosofía de arquitectura móvil fundamentada en el principio de que *"todo es un widget"*. Asimismo, internalicé las ventajas del paradigma declarativo, comprendiendo cómo desacoplar estrictamente la capa lógica de negocio de la interfaz visual orientada al usuario para estructurar flujos de desarrollo óptimos, legibles y mantenibles.
-* **¿Qué fue difícil? (Desafíos Encontrados):** El principal obstáculo técnico radicó en dominar el comportamiento adaptativo de la barra de navegación lateral (`NavigationRail`), coordinando su despliegue en combinación con la renderización condicional de vistas según las dimensiones de la pantalla. De igual forma, demandó especial rigurosidad la sincronización del gestor de estados para garantizar que la pantalla de favoritos (`FavoritesPage`) actualizara, añadiera o eliminara elementos en tiempo real y de forma síncrona, sin comprometer el rendimiento ni quebrar la experiencia de navegación.
-* **¿Qué mejoraría? (Visión de Futuro):** Para iteraciones posteriores de la solución, proyectaría la implementación de un sistema de persistencia de datos persistente sobre el almacenamiento físico del dispositivo móvil (mediante utilidades como `shared_preferences` o motores de bases de datos embebidas tipo NoSQL como `Hive`). Con este módulo de persistencia local, la colección de conceptos marcados como favoritos por el usuario se mantendría íntegra, evitando la pérdida de información al finalizar o destruir el ciclo de vida del proceso de la aplicación.
