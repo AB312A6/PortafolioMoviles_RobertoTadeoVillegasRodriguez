@@ -1,17 +1,16 @@
-Portafolio de Proyectos — Desarrollo de Aplicaciones para Dispositivos Móviles
 # Portafolio de Proyectos — Desarrollo de Aplicaciones para Dispositivos Móviles
 
 <table>
   <tr>
     <td width="30%" align="center">
-      <!-- Reemplaza con la URL de la imagen del logo de tu escuela si la tienes subida -->
-      <img src="ruta/a/tu/logo_instituto.png" width="150" alt="Logo de la Institución">
+      <!-- Reemplaza con la URL del logo de tu instituto si la tienes subida -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="120" alt="Logo">
     </td>
     <td>
       <h3>Información del Alumno</h3>
       <ul>
-        <li><b>Nombre:</b> Cristal Ruiz Lozano</li>
-        <li><b>Número de control:</b> 222310571</li>
+        <li><b>Nombre Completo:</b> Ibarra Zuñiga Antonio Obed</li>
+        <li><b>Número de Control:</b> 222310491</li>
         <li><b>Materia:</b> Desarrollo de Aplicaciones para Dispositivos Móviles</li>
         <li><b>Institución:</b> Instituto Tecnológico Superior de Lerdo</li>
         <li><b>Docente:</b> Jesús Salas Marín</li>
@@ -24,34 +23,25 @@ Portafolio de Proyectos — Desarrollo de Aplicaciones para Dispositivos Móvile
 
 ## Descripción General
 
-Este portafolio reúne el trabajo desarrollado durante la materia de Desarrollo de Aplicaciones para Dispositivos Móviles, donde se implementaron aplicaciones móviles utilizando Flutter y Dart.
-
-En él se integran diferentes proyectos enfocados en:
-
-* Generación de contenido dinámico
-* Manejo de estado en aplicaciones móviles
-* Navegación entre pantallas
-* Reproducción de audio
-* Diseño de interfaces modernas y responsivas
-* Organización de proyectos en estructuras profesionales
+Este repositorio sería el portafolio de las soluciones de software desarrolladas durante el semestre. El avance en los proyectos demuestra la transición desde los fundamentos lógicos del lenguaje Dart en consola, pasando por el diseño declarativo de interfaces de usuario, hasta la integración de flujos reactivos asíncronos y consumo de hardware multimedia nativo en dispositivos móviles.
 
 ---
 
-## 🧰 Tecnologías Utilizadas
+## 🛠️ Tecnologías
 
-| Tecnología | Descripción |
-| :--- | :--- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="20" height="20"/> **Dart** | Lenguaje principal para la lógica de las aplicaciones |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="20" height="20"/> **Flutter** | Framework para desarrollo móvil multiplataforma |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="20" height="20"/> **Visual Studio Code** | Entorno de desarrollo |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="20" height="20"/> **GitHub** | Control de versiones y alojamiento de proyectos |
-| 📐 **Material Design** | Sistema de diseño para interfaces modernas |
+| Tecnología / Herramienta | Tipo | Uso Principal |
+| :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="18" height="18"/> **Dart** | Lenguaje de Programación | Lógica de programación backend, manipulación de estructuras de datos orientadas a objetos y flujos asíncronos. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="18" height="18"/> **Flutter** | Framework Móvil | Construcción y renderizado declarativo de interfaces de usuario (UI) responsivas y conexión con hardware nativo. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="18" height="18"/> **Visual Studio Code** | Entorno de Desarrollo (IDE) | Editor de código principal utilizado para la programación, depuración y gestión de extensiones del entorno. |
+| 📄 **JSON** | Formato de Datos | Estructuración, almacenamiento local serializado e intercambio de información mediante nodos clave-valor. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="18" height="18"/> **GitHub** | Plataforma de Alojamiento | Despliegue en la nube del portafolio académico, control remoto de repositorios y documentación formal. |
 
 ---
 
 ## 📁 Estructura del Repositorio
 
-A continuación se muestra la estructura principal de las carpetas del proyecto:
+A continuación se muestra la estructura principal de las carpetas organizadas en este portafolio de evidencias:
 
 ```text
 PortafolioMoviles/
